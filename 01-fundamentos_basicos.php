@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php
-    echo "Ja comecei a não gostar de php<br>";
-    print "Teste :(";
+    echo "Estudando PHP<br>";
+    print "Teste";
     ?>
 </body>
 </html>
